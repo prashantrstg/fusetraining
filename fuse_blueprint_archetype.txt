@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=org.apache.camel.archetypes -DarchetypeArtifactId=camel-archetype-blueprint -DarchetypeVersion=2.17.0.redhat-630187 -DgroupId=com.training.test -DartifactId=arch63-test -Dversion=1.0.0
